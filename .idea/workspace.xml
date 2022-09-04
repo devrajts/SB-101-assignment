@@ -33,7 +33,14 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Student">
+  <component name="RunManager" selected="Application.Birthday">
+    <configuration name="Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Birthday" />
+      <module name="Day-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generics_q1.Main" />
       <module name="Day-2" />
@@ -73,19 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashmap_q2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashmap_q2.Main" />
-      <module name="Day-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashmap_q2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="map_q4.Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="map_q4.Student" />
       <module name="Day-2" />
@@ -101,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Birthday" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.map_q4.Student" />
         <item itemvalue="Application.States" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.hashmap_q2.Main" />
       </list>
     </recent_temporary>
   </component>

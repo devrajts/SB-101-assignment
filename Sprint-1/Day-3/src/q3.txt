@@ -1,0 +1,18 @@
+Q3) What is exception handling in java, Write the hierarchy of Exception class and, Mention some
+of the predefined Exception classes at least 5, and the reason when those exception class
+object is generated in our application.
+
+Exception handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException, SQLException,
+RemoteException, etc.
+
+examples:
+1) ArithmeticException - it is thrown when an exceptional condition has occurred in an arithmetic operation.
+
+2) ArrayIndexOutOfBoundsException - it is thrown to indicate that an array has been accessed with an illegal index. the
+index is either negative or greater than or equal to the size of the array.
+
+3) ClassNotFoundException - this Exception is raised when we try to access a class whose definition is not found.
+
+4) FileNotFoundException - This Exception is raised when a file is not accessible or does not open.
+
+5) IOException - it is thrown when an input-output operation failed or interrupted.
