@@ -26,14 +26,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/User/OneDrive/Desktop/masai/Java-practice"
   }
-}</component>
-  <component name="RunManager" selected="Application.Demo">
+}]]></component>
+  <component name="RunManager" selected="Application.CheckOutput">
     <configuration name="Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Birthday" />
       <module name="Day-3" />
@@ -41,22 +42,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+    <configuration name="CheckOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckOutput" />
       <module name="Evaluation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="States" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map_q3.States" />
-      <module name="Day-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="map_q3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="Evaluation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckOutput" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.map_q4.Student" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.Birthday" />
-        <item itemvalue="Application.States" />
       </list>
     </recent_temporary>
   </component>
