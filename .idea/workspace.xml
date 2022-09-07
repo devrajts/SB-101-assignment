@@ -26,42 +26,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/User/OneDrive/Desktop/masai/Java-practice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/OneDrive/Desktop/masai/Java-practice&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CheckOutput">
-    <configuration name="Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Birthday" />
-      <module name="Day-3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckOutput" />
-      <module name="Evaluation" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
-      <module name="Evaluation" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map_q2.Student" />
-      <module name="Day-2" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Day_1.q6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Child">
+    <configuration name="AccountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_1.q3.AccountDemo" />
+      <module name="Sprint-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="map_q2.*" />
+          <option name="PATTERN" value="Day_1.q3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +53,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="map_q4.Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map_q4.Student" />
-      <module name="Day-2" />
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_1.q6.Child" />
+      <module name="Sprint-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="map_q4.*" />
+          <option name="PATTERN" value="Day_1.q6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_1.q1.Exception" />
+      <module name="Sprint-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_1.q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quotient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_1.q4.Quotient" />
+      <module name="Sprint-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_1.q4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_1.q5.UserRegistration" />
+      <module name="Sprint-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_1.q5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckOutput" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.map_q4.Student" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Birthday" />
+        <item itemvalue="Application.Child" />
+        <item itemvalue="Application.Exception" />
+        <item itemvalue="Application.UserRegistration" />
+        <item itemvalue="Application.Quotient" />
+        <item itemvalue="Application.AccountDemo" />
       </list>
     </recent_temporary>
   </component>
