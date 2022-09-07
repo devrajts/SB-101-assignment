@@ -36,16 +36,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Day_2.q1" />
       <recent name="Day_1.q6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Child">
-    <configuration name="AccountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_1.q3.AccountDemo" />
+  <component name="RunManager" selected="Application.City">
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_1.q6.Child" />
       <module name="Sprint-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_1.q3.*" />
+          <option name="PATTERN" value="Day_1.q6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_1.q6.Child" />
+    <configuration name="City" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_2.q2.City" />
       <module name="Sprint-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_1.q6.*" />
+          <option name="PATTERN" value="Day_2.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quotient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_1.q4.Quotient" />
+    <configuration name="Tiger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_2.q1.Tiger" />
       <module name="Sprint-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_1.q4.*" />
+          <option name="PATTERN" value="Day_2.q1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.City" />
+        <item itemvalue="Application.Tiger" />
         <item itemvalue="Application.Child" />
         <item itemvalue="Application.Exception" />
         <item itemvalue="Application.UserRegistration" />
-        <item itemvalue="Application.Quotient" />
-        <item itemvalue="Application.AccountDemo" />
       </list>
     </recent_temporary>
   </component>
