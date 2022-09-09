@@ -1,0 +1,14 @@
+Write down some predefined Functional interfaces in the java library at least 4
+interfaces, with their methods.
+
+Since Java SE 1.8 onwards, there are many interfaces that are converted into functional interface. all these interfaces
+are annotated with @Functionalinterfaces. These interfaces are as follows:-
+
+1) Comparable: java.lang.Comparable :
+                                      public int compareTo(Object obj);
+2) Comparator: java.util.Comparator :
+                                      public int compare(Object obj1, Object obj2);
+3) Runnable: java.lang.Runnable :
+                                      public void run();
+4) Callable: java.util.Concurrent :
+                                      public void callable();
