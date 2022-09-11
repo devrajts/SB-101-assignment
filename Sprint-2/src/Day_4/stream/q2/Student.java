@@ -60,6 +60,8 @@ class Main{
                 .stream()
                 .max(Comparator.comparing(Student::getMarks));
 
+        System.out.println("Student with maximum marks");
+        System.out.println("----------------------------");
         System.out.println("Student roll : "+StudentWithMaxMarks.get().getRoll());
         System.out.println("Student name : "+StudentWithMaxMarks.get().getName());
         System.out.println("Student marks : "+StudentWithMaxMarks.get().getMarks());
