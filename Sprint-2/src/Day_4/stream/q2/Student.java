@@ -3,6 +3,7 @@ package Day_4.stream.q2;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Optional;
 
 public class Student {
     private Integer roll;
@@ -55,16 +56,13 @@ class Main{
         list.add(new Student(4, "Kumar", 730));
         list.add(new Student(5, "Vikas", 600));
 
-        List<Student> StudentWithMaxMarks = list
+        Optional<Student> StudentWithMaxMarks = list
                 .stream()
-                .sorted(Comparator.comparing(Student::getMarks).reversed())
-                .toList();
+                .max(Comparator.comparing(Student::getMarks));
 
-        for(Student s : StudentWithMaxMarks) {
-            System.out.println("Student Roll : "+s.getRoll());
-            System.out.println("Student Name : "+s.getName());
-            System.out.println("Student Marks : "+s.getMarks());
-            System.out.println("-----------------------------------");
-        }
+        System.out.println("Student roll : "+StudentWithMaxMarks.get().getRoll());
+        System.out.println("Student name : "+StudentWithMaxMarks.get().getName());
+        System.out.println("Student marks : "+StudentWithMaxMarks.get().getMarks());
+
     }
 }
