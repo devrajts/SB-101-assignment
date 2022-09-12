@@ -41,13 +41,13 @@
       <recent name="Day_1.q6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day_4.stream.q2.Main">
-    <configuration name="Day_3.q3.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_3.q3.Demo" />
+  <component name="RunManager" selected="Application.Names">
+    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluation.q2.ConsumerExample" />
       <module name="Sprint-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_3.q3.*" />
+          <option name="PATTERN" value="evaluation.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_4.stream.q1.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_4.stream.q1.Demo" />
+    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluation.q2.FunctionExample" />
       <module name="Sprint-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_4.stream.q1.*" />
+          <option name="PATTERN" value="evaluation.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_4.stream.q2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_4.stream.q2.Main" />
+    <configuration name="Names" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluation.q4.Names" />
       <module name="Sprint-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_4.stream.q2.*" />
+          <option name="PATTERN" value="evaluation.q4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_4.stream.q3.Main" />
+    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluation.q2.PredicateExample" />
       <module name="Sprint-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_4.stream.q3.*" />
+          <option name="PATTERN" value="evaluation.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_4.stream.q4.Student" />
+    <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluation.q2.SupplierExample" />
       <module name="Sprint-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_4.stream.q4.*" />
+          <option name="PATTERN" value="evaluation.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day_4.stream.q2.Main" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Day_4.stream.q1.Demo" />
-        <item itemvalue="Application.Day_3.q3.Demo" />
+        <item itemvalue="Application.Names" />
+        <item itemvalue="Application.FunctionExample" />
+        <item itemvalue="Application.SupplierExample" />
+        <item itemvalue="Application.ConsumerExample" />
+        <item itemvalue="Application.PredicateExample" />
       </list>
     </recent_temporary>
   </component>
