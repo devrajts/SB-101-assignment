@@ -28,6 +28,6 @@ public class Application implements Runnable{
     public static void main(String[] args) {
         Application ap = new Application();
         ap.run();
-        
+
     }
 }
