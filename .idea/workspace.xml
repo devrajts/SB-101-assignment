@@ -41,13 +41,13 @@
       <recent name="Day_1.q6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EvenOddThreadPool">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2.q7.Application" />
+  <component name="RunManager" selected="Application.ThreadPoll">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluation.q5.Demo1" />
       <module name="Sprint-3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2.q7.*" />
+          <option name="PATTERN" value="evaluation.q5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOddThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.day4.q6.EvenOddThreadPool" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluation.q5.Demo2" />
       <module name="Sprint-3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.day4.q6.*" />
+          <option name="PATTERN" value="evaluation.q5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,9 +68,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Names" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evaluation.q4.Names" />
-      <module name="Sprint-2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluation.q4.Main" />
+      <module name="Sprint-3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="evaluation.q4.*" />
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.day4.q1.Product" />
+    <configuration name="ThreadPoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluation.q3.ThreadPoll" />
       <module name="Sprint-3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.day4.q1.*" />
+          <option name="PATTERN" value="evaluation.q3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="evenAndOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiThreading.day3.q3.evenAndOdd" />
+    <configuration name="evaluation.q2.Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluation.q2.Product" />
       <module name="Sprint-3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiThreading.day3.q3.*" />
+          <option name="PATTERN" value="evaluation.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenOddThreadPool" />
-        <item itemvalue="Application.Product" />
-        <item itemvalue="Application.evenAndOdd" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Application.Names" />
+        <item itemvalue="Application.ThreadPoll" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.evaluation.q2.Product" />
       </list>
     </recent_temporary>
   </component>
