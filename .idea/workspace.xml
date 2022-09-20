@@ -41,13 +41,13 @@
       <recent name="Day_1.q6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadPoll">
+  <component name="RunManager" selected="Application.fileIO.q4.Demo2">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evaluation.q5.Demo1" />
+      <option name="MAIN_CLASS_NAME" value="fileIO.q4.Demo1" />
       <module name="Sprint-3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="evaluation.q5.*" />
+          <option name="PATTERN" value="fileIO.q4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evaluation.q4.Main" />
+    <configuration name="TextRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileIO.q2.TextRead" />
       <module name="Sprint-3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="evaluation.q4.*" />
+          <option name="PATTERN" value="fileIO.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evaluation.q3.ThreadPoll" />
+    <configuration name="fileIO.q1.Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileIO.q1.Employee" />
       <module name="Sprint-3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="evaluation.q3.*" />
+          <option name="PATTERN" value="fileIO.q1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="evaluation.q2.Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evaluation.q2.Product" />
+    <configuration name="fileIO.q4.Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileIO.q4.Demo2" />
       <module name="Sprint-3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="evaluation.q2.*" />
+          <option name="PATTERN" value="fileIO.q4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadPoll" />
-        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.fileIO.q4.Demo2" />
         <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.evaluation.q2.Product" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.TextRead" />
+        <item itemvalue="Application.fileIO.q1.Employee" />
       </list>
     </recent_temporary>
   </component>
